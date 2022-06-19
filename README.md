@@ -1,1 +1,1 @@
-Simulador de Câmera Acústica para Matlab.
+An open-source acoustic camera simulator, aimed mainly at applications in reverberant environments.
