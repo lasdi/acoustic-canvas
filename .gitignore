@@ -1,0 +1,11 @@
+.gitignore
+.gitattributes
+/app
+/_bkp
+/audios
+/datasets
+/imagens
+*.png
+/bib/bkp
+testes.m
+*.asv
